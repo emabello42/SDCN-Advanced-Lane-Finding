@@ -23,6 +23,13 @@ The goals / steps of this project are the following:
 [video1]: ./output_videos/out_project_video.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
+### Requirements to run the project:
+ - Python 3.6 and the following packages:
+	 - matplot
+  - numpy
+  - glob
+  - opencv
+  - moviepy
 
 ### Camera Calibration
 
