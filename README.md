@@ -26,10 +26,10 @@ The goals / steps of this project are the following:
 ### Requirements to run the project:
  - Python 3.6 and the following packages:
 	 - matplot
-  - numpy
-  - glob
-  - opencv
-  - moviepy
+	 - numpy
+	 - glob
+	 - opencv
+	 - moviepy
 
 ### Camera Calibration
 
