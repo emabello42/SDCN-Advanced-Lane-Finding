@@ -84,12 +84,13 @@ dst = np.float32([dp0, dp1, dp2, dp3])
 ```
 
 This resulted in the following source and destination points:
+
 | Source        | Destination   | 
 |:-------------:|:-------------:| 
 | 580, 460      | 195, 0        | 
 | 700, 460      | 1110, 0       |
 | 1110, 719     | 1110, 719     |
-| 195, 719      | 195, 719       |
+| 195, 719      | 195, 719      |
 
 I verified that my perspective transform was working as expected by drawing the `src` and `dst` points onto a test image and its warped counterpart to verify that the lines appear parallel in the warped image.
 
