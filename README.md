@@ -115,7 +115,9 @@ I implemented this step in lines 28 through 54 in my code in `src/lines_detector
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./output_videos/out_project_video.mp4)
+Here's a link to my video result:
+
+[![Advanced Lane Finding Project](http://img.youtube.com/vi/hiKdwV7CWlA/0.jpg)](http://www.youtube.com/watch?v=hiKdwV7CWlA "Advanced Lane Finding Project")
 
 ---
 
